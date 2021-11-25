@@ -4,10 +4,14 @@
 ###### DESC: CURSO DE JAVA
 ###### DATE: 24-11-21
 
+------------
+
+
+
 [![Programming](https://raw.githubusercontent.com/albertoicg01/CursoJava/main/img/programing.png "Programming")](https://raw.githubusercontent.com/albertoicg01/CursoJava/main/img/programing.png "Programming")
 
 
-##### Se subirán diferentes ejercicios de ayuda no sólo con este lenguaje de programaciónSe subirán diferentes ejercicios de ayuda no sólo con este lenguaje de programación
+##### Se subirán diferentes ejercicios de ayuda no sólo con este lenguaje de programación
 
 Sino también los siguientes temas 
 - Programación orientada a objetos
