@@ -7,7 +7,7 @@ estructura de arreglos unidemensionales en Java como los arrays
 
 public class Fibonacci{
     public static void main(String[] args){
-        int i=1, n=30;
+        int i=0, n=6;
         
         
         //Usamos estructura de datos unidimensional
