@@ -1,13 +1,18 @@
-/**
- *
- * @author alber
- */
-//La clase debe corresponder al nombre del archivo
-//En este caso HolaMundo.java
+/*
+@Author: Alberto Cruz
+
+*/
 public class HolaMundo{
-    //Agregamos metodo main
-    //El metodo no regresa ninguna informacion
-    public static void main(String[] args) {
-        System.out.println("Hola mundo!!");
+    public static void main(String[] args){
+        
+        int i=0;
+        while (i!=20){
+            i+=1;
+            System.out.println("Programa de prueba 2");
+        }
+
     }
 }
+
+
+
