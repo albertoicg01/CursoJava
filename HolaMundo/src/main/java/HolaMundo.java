@@ -1,33 +1,30 @@
-import java.util.Scanner;
-
-
 /*
-Ejercicio sobre libro hecho por Alberto Cruz.
+    Otro ejercicio de programación sobre
+    lectura de valores por la entrada estándar
 */
+import java.util.Scanner;
 
 public class HolaMundo{
     public static void main(String args[]){
-        System.out.println("Bienvenido a mi primer ejercicio de prueba");
-        //////////////////////////////////////////////////////////////////////
+        Scanner scanner=new Scanner(System.in);
         
-        Scanner entradaEstandar=new Scanner(System.in);
+        System.out.println("Ingresa el valor de un número: ");
         
-        System.out.println("Ingresa el nombre del libro: ");
-        
-        String titulo=entradaEstandar.nextLine();
+        //Este numero es forzosamente recibido como una cadena, 
+        String numeroInteger=scanner.nextLine();
         
         
-        System.out.println("Ingresa el nombre del autor:");
-        String autor=entradaEstandar.nextLine();
-
-
-        System.out.println("El libro "+titulo+" fue escrito por "+ autor);
+        System.out.println("El numero que se recibió es: "+numeroInteger);
+        
+        int multiplicador=50,conversion=0, resultado=0;
         
         
-        System.out.println("Gracias la confianza en desarrollados por Alberto Cruz");
+        //Esta es la forma de obtener la parte entera de una cadena
+        conversion=Integer.valueOf(numeroInteger);
         
-     
-
+        resultado=multiplicador*conversion;
+        
+        System.out.println(multiplicador+"*"+conversion+"="+resultado);
         
         
     }
