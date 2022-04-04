@@ -4,7 +4,7 @@
 
 ### About
 
-This repository is dedicated for do excercises about Java and some fundamental feautures that this programming language uses. One objective and difference with <a href="">AT repository</a> is we are going to work with <b>Apache Netbeans</b> instead of <b>Eclipse</b>. 
+This repository is dedicated for do excercises about Java and some fundamental feautures that this programming language uses. One objective and difference with <a href="https://github.com/albertoicg01/AT">AT repository</a> is we are going to work with <b>Apache Netbeans</b> instead of <b>Eclipse</b>. 
 
 ### Content
 It will be added soon
