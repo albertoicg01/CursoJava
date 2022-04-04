@@ -1,6 +1,6 @@
 #  Java Fundamentals  
 
-### AUTHOR: ALBERTO C.
+### AUTHOR: Alberti Cruz
 
 ### About
 
